@@ -31,6 +31,7 @@ My projects address real-world issues like food waste reduction and educational 
 
 ## 📚 Knowledge Sharing & Continuous Learning
 Active contributor on Dev.to with AWS tutorial series and committed to certifications.
+- **Read My Blogs @ [Dev.to](https://dev.to/suvrajeet/)**
 
 ## 🎯 Professional Focus
 Passionate about security-integrated DevOps, cloud-native automation, and scalable infrastructure design.
