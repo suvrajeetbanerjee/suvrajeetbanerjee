@@ -13,7 +13,7 @@ From Mining Operations to Cloud Automation - Building Bridges Between Infrastruc
 ---
 
 ## ⚡ The Journey That Sets Me Apart
-A CSE graduate who took an unconventional path to DevOps & cloud infrastructure mastery. My 2+ years of mixed professional experience started in the mining industry at RMSPL, where I headed procurement operations for the ECL-NK Project. Transitioning to modern DevOps practices through intensive hands-on learning, I’ve completed 20+ comprehensive projects spanning AWS, networking, and CI/CD pipeline development.
+A CSE graduate who took an unconventional path to DevOps & cloud infrastructure mastery. My 3+ years of mixed professional experience started in the mining industry at RMSPL, where I headed procurement operations for the ECL-NK Project. Transitioning to modern DevOps practices through intensive hands-on learning, I’ve completed 20+ comprehensive projects spanning AWS, networking, and CI/CD pipeline development.
 
 ---
 
