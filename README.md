@@ -2,6 +2,7 @@
 
 
 ### Started work on 3d personal portolio website
+> Planning complete for website design!
 
 <!-- ## Hi there 👋 
 
