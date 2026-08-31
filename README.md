@@ -4,6 +4,8 @@
 ### Started work on 3d personal portolio website
 > Planning complete for website design!
 
+> Explored various options for hosting the website...
+
 <!-- ## Hi there 👋 
 
 # Suvrajeet Banerjee - DevOps Engineer & Cloud Enthusiast
