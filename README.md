@@ -6,6 +6,8 @@
 
 > Explored various options for hosting the website...
 
+> On the verge of completion!
+
 <!-- ## Hi there 👋 
 
 # Suvrajeet Banerjee - DevOps Engineer & Cloud Enthusiast
