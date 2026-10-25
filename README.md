@@ -8,6 +8,8 @@
 
 > On the verge of completion!
 
+> Final finishing touches remains before launch ...
+
 <!-- ## Hi there 👋 
 
 # Suvrajeet Banerjee - DevOps Engineer & Cloud Enthusiast
