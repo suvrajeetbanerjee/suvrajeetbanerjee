@@ -10,6 +10,8 @@
 
 > Final finishing touches remains before launch ...
 
+> Testing phase before deployment!
+
 <!-- ## Hi there 👋 
 
 # Suvrajeet Banerjee - DevOps Engineer & Cloud Enthusiast
